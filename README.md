@@ -8,6 +8,8 @@ Install [XMind](http://www.macbartender.com/) version 3.3.1 (build 201212250029)
 include xmind
 ```
 
+[![Build Status](https://travis-ci.org/erichkist/puppet-xmind.png)](https://travis-ci.org/erichkist/puppet-xmind)
+
 ## Required Puppet Modules
 
 * `boxen`
