@@ -1,4 +1,4 @@
 source "https://rubygems.org"
 
-gem "cardboard", "~> 1.0"
-gem "boxen", "~> 1.1"
+gem "cardboard", "~> 2.1"
+gem "boxen", "~> 2.6"
