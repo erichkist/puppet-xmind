@@ -6,6 +6,6 @@
 class xmind {
   package { 'Xmind':
     provider => 'appdmg',
-    source   => 'http://www.xmind.net/xmind/downloads/xmind-macosx-3.3.1.201212250029.dmg'
+    source   => 'http://www.xmind.net/xmind/downloads/xmind-macosx-3.4.1.201401221918.dmg'
   }
 }
