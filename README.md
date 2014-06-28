@@ -1,6 +1,6 @@
 # XMind Puppet Module for Boxen
 
-Install [XMind](http://www.macbartender.com/) version 3.3.1 (build 201212250029), a professional & powerful Mind Mapping Software.
+Install [XMind](http://www.macbartender.com/) version 3.4.1 (build 201401221918), a professional & powerful Mind Mapping Software.
 
 ## Usage
 
